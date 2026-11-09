@@ -10,6 +10,4 @@ docker run -it --rm --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v "$
 
 Everything is offline and judged in this image. The kit is also inside it at `/opt/os-track/`.
 
-**3. Pick one problem:** PageWeaver · ContextChaos · AnarchyOS · The Cat-V Minimalist Stack Challenge. Teams are ranked only against teams on the same problem.
-
 Good luck, and have fun breaking things (deliberately)!
